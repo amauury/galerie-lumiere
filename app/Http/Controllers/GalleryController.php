@@ -41,7 +41,7 @@ class GalleryController extends Controller
         ]);
     
         $imageName = time().'.'.$request->image->extension();
-        $request->image->move(public_path('images/tatoo_pictures'), $imageName);
+        $request->image->move(public_path('images/art'), $imageName);
     
 
 
