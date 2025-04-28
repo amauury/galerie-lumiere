@@ -10,12 +10,11 @@ Avant de commencer, assurez-vous d'avoir les éléments suivants installés :
 - **PHP** : Version 8.4.5 ou supérieure  
 - **Composer** : Version 2.8.8 ou supérieure  
 - **MySQL** : Pour la base de données  
-- **Node.js** et **npm** (optionnel pour gérer les assets)  
 
 ## 3. Installation  
 1. Clonez le dépôt GitHub :  
     ```bash
-    git clone https://github.com/votre-utilisateur/galerie-lumiere.git
+    git clone https://github.com/amauury/galerie-lumiere.git
     cd galerie-lumiere
     ```  
 2. Installez les dépendances PHP avec Composer :  
